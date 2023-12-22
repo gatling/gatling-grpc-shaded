@@ -8,6 +8,36 @@
     <name>grpc-java-guava-shaded</name>
     <description>gRPC-Java, with shaded Guava, for Gatling gRPC</description>
 
+    <url>https://github.com/gatling/gatling-grpc-shaded</url>
+
+    <developers>
+        <developer>
+            <id>slandelle@gatling.io</id>
+            <name>Stephane Landelle</name>
+            <organization>Gatling Corp</organization>
+            <organizationUrl>https://gatling.io</organizationUrl>
+        </developer>
+        <developer>
+            <id>gcorre@gatling.io</id>
+            <name>Guillaume Corré</name>
+            <organization>Gatling Corp</organization>
+            <organizationUrl>https://gatling.io</organizationUrl>
+        </developer>
+        <developer>
+            <id>ggaly@gatling.io</id>
+            <name>Guillaume Galy</name>
+            <organization>Gatling Corp</organization>
+            <organizationUrl>https://gatling.io</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git:@github.com:gatling/gatling-grpc-shaded.git</connection>
+        <developerConnection>scm:git:git:@github.com:gatling/gatling-grpc-shaded.git</developerConnection>
+        <url>https://github.com/gatling/gatling-grpc-shaded</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <licenses>
         <!-- Both gRPC-Java and Guava use the ASL v2.0 license -->
         <license>
